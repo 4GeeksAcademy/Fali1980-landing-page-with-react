@@ -1,4 +1,13 @@
-
+.jumboStyle {
+    background-color: rgb(194, 194, 194);
+}
+.imageCard {
+    aspect-ratio: 500/325;
+    background-color: rgb(141, 141, 141);
+}
+.buttonToggler {
+    border-color: white;
+}
 /* 
 
     You can write your own styles here...
